@@ -1,0 +1,7 @@
+main.c:23:7:SPI_LIS3DSH_Tx	24	static
+main.c:32:10:SPI_LIS3DSH_Rx	32	static
+main.c:46:6:LIS3DSH_Init	8	static
+main.c:66:6:EXTI0_IRQHandler	16	static
+main.c:113:6:SystemClock_Config	96	static
+main.c:91:5:main	48	static
+main.c:244:6:Error_Handler	0	static
